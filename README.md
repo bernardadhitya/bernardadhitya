@@ -6,8 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, Express and MongoDB 
 - ⚡ Fun fact: Photography is my dearest hobby
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Bernard Adhitya K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bernard-adhitya-k-a98618144/)

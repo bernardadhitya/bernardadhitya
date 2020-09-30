@@ -1,6 +1,6 @@
 ### Hi! I'm Bernard. Welcome to my Github Page 👋
 
-Here are some ideas to get you started:
+Here are some things to get to know me:
 
 - 🔭 I’m currently a Full Stack Engineer Intern at PT. Bank BTPN Tbk.
 - 🌱 I’m currently learning React, Express and MongoDB 

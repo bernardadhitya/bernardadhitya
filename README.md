@@ -2,8 +2,8 @@
 
 Here are some things to get to know me:
 
-- 🔭 I’m currently a Full Stack Engineer Intern at PT. Bank BTPN Tbk.
-- 🌱 I’m currently learning React, Express and MongoDB 
+- 🔭 I’m am Software Engineer, specialize in Web Development (React) and Mobile Development (React Native)
+- 🌱 I’m currently working with React, React Native, Express and MongoDB 
 - ⚡ Fun fact: Photography is my dearest hobby
 
 ### Connect with me:
